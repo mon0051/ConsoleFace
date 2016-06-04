@@ -1,0 +1,1 @@
+{"version":3,"sources":["renderer.js"],"names":[],"mappings":"","file":"renderer-compiled.js","sourcesContent":["// This file is required by the index.html file and will\n// be executed in the renderer process for that window.\n// All of the Node.js APIs are available in this process.\n"]}
